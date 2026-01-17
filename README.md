@@ -1,5 +1,4 @@
-# COVID_XRay_Screening
-# COVID-19 X-Ray Screening 🫁🦠  
+# COVID-19 Lung X-Ray Screening 🫁🦠  
 **AI-Based COVID-19 Detection Using Chest X-Ray Images**
 
 This project uses **deep learning and computer vision** to screen for **COVID-19** by analyzing **chest X-ray images**. The goal is to provide a **fast, low-cost, and accessible screening tool** that can assist healthcare professionals, especially in resource-limited settings where PCR testing may be slow or unavailable.
